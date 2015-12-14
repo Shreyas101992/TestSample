@@ -1,0 +1,10 @@
+######################     START OF THE TEST    ###################### -2015-10-08 17:51:19,990 - com.quickride.baselib.QRTestngListener - INFO
+_____________	   RUNNING TESTCASE 	___________ -2015-10-08 17:51:32,453 - com.quickride.baselib.QRTestngListener - INFO
+TESTCASE ID  =  	testNewUserRG_04                     -2015-10-08 17:51:32,453 - com.quickride.baselib.QRTestngListener - INFO
+SignUp button is displayed -2015-10-08 17:51:36,063 - com.quickride.baselib.QRTestngListener - INFO
+Account already exists popup is displayed -2015-10-08 17:52:00,868 - com.quickride.baselib.QRTestngListener - INFO
+Forgot password reset page is successfully displayed -2015-10-08 17:52:04,554 - com.quickride.baselib.QRTestngListener - INFO
+TEST STATUS  =   	PASSED                     -2015-10-08 17:52:04,557 - com.quickride.baselib.QRTestngListener - INFO
+___________________________________________________ -2015-10-08 17:52:04,557 - com.quickride.baselib.QRTestngListener - INFO
+                                                                     -2015-10-08 17:52:05,764 - com.quickride.baselib.QRTestngListener - INFO
+######################     END OF THE TEST    ###################### -2015-10-08 17:52:05,764 - com.quickride.baselib.QRTestngListener - INFO

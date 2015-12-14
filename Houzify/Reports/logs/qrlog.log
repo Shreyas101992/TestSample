@@ -1,0 +1,32 @@
+Login is completed -2015-10-09 15:30:51,137 - com.quickride.PO.NewUserRegPO - INFO
+Menubar should be displayed -2015-10-09 15:30:51,200 - com.quickride.scripts.UserConfigTest - INFO
+Login is completed -2015-10-09 16:05:06,103 - com.quickride.PO.NewUserRegPO - INFO
+Menubar should be displayed -2015-10-09 16:05:06,151 - com.quickride.scripts.UserConfigTest - INFO
+Menubar button is displayed -2015-10-09 16:56:49,759 - com.quickride.scripts.UserConfigTest - INFO
+SignUp button is displayed -2015-10-09 18:35:51,782 - com.quickride.scripts.NewUserRegTest - INFO
+Exception in  case testNewUserRG_01 -2015-10-09 18:42:15,835 - com.quickride.scripts.NewUserRegTest - ERROR
+Exception in  case notifications_01 -2015-10-09 18:53:49,397 - com.quickride.scripts.UserConfigTest - ERROR
+Exception in  case notifications_01 -2015-10-09 18:56:08,247 - com.quickride.scripts.UserConfigTest - ERROR
+Exception in  case notifications_01 -2015-10-09 18:58:56,127 - com.quickride.scripts.UserConfigTest - ERROR
+Menubar button is displayed -2015-10-09 18:59:20,413 - com.quickride.scripts.UserConfigTest - INFO
+Login is completed -2015-10-09 18:59:54,391 - com.quickride.PO.NewUserRegPO - INFO
+Menubar button is displayed -2015-10-09 19:03:18,655 - com.quickride.scripts.UserConfigTest - INFO
+Login is completed -2015-10-09 19:03:42,171 - com.quickride.PO.NewUserRegPO - INFO
+Menubar button is displayed -2015-10-09 19:05:30,911 - com.quickride.scripts.UserConfigTest - INFO
+Login is completed -2015-10-09 19:05:52,186 - com.quickride.PO.NewUserRegPO - INFO
+Menubar button is displayed -2015-10-13 11:38:08,358 - com.quickride.scripts.UserConfigTest - INFO
+Login is completed -2015-10-13 11:38:27,321 - com.quickride.PO.NewUserRegPO - INFO
+Exception in  case notifications_01 -2015-10-13 11:38:38,516 - com.quickride.scripts.UserConfigTest - ERROR
+Sign Up is completed -2015-10-20 16:06:47,258 - com.quickride.scripts.NewUserRegTest - INFO
+Exception in  case testNewUserRG_01 -2015-10-20 20:02:47,316 - com.quickride.scripts.NewUserRegTest - ERROR
+Exception in  case testNewUserRG_01 -2015-10-20 20:27:52,225 - com.quickride.scripts.NewUserRegTest - ERROR
+Exception in  case testNewUserRG_01 -2015-10-20 20:29:07,093 - com.quickride.scripts.NewUserRegTest - ERROR
+Login is completed -2015-10-20 20:40:50,029 - com.quickride.scripts.NewUserRegTest - INFO
+Exception in  case testNewUserRG_01 -2015-10-21 12:57:30,165 - com.quickride.scripts.NewUserRegTest - ERROR
+Exception in  case testNewUserRG_01 -2015-10-21 13:00:08,039 - com.quickride.scripts.NewUserRegTest - ERROR
+Exception in  case testNewUserRG_01 -2015-10-21 13:01:12,184 - com.quickride.scripts.NewUserRegTest - ERROR
+Login is completed -2015-10-21 13:02:39,867 - com.quickride.scripts.NewUserRegTest - INFO
+Exception in  case testNewUserRG_01 -2015-10-21 13:05:59,498 - com.quickride.scripts.NewUserRegTest - ERROR
+Exception in  case testNewUserRG_01 -2015-10-21 14:33:58,902 - com.houzify.scripts.HZActions - ERROR
+Exception in  case testNewUserRG_01 -2015-10-21 16:22:11,634 - com.houzify.scripts.HZActionsTest - ERROR
+Exception in  case testNewUserRG_01 -2015-10-21 17:03:39,525 - com.houzify.scripts.HZActionsTest - ERROR

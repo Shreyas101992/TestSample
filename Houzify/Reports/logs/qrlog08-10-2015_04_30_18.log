@@ -1,0 +1,12 @@
+######################     START OF THE TEST    ###################### -2015-10-08 16:30:18,866 - com.quickride.baselib.QRTestngListener - INFO
+_____________	   RUNNING TESTCASE 	___________ -2015-10-08 16:30:31,805 - com.quickride.baselib.QRTestngListener - INFO
+TESTCASE ID  =  	testNewUserRG_05                     -2015-10-08 16:30:31,805 - com.quickride.baselib.QRTestngListener - INFO
+Login button is displayed -2015-10-08 16:30:35,215 - com.quickride.baselib.QRTestngListener - INFO
+Login is completed -2015-10-08 16:30:54,791 - com.quickride.baselib.QRTestngListener - INFO
+Exception in  logout() -2015-10-08 16:31:06,242 - com.quickride.baselib.QRTestngListener - ERROR
+TEST STATUS  =   	FAILED                     -2015-10-08 16:31:06,268 - com.quickride.baselib.QRTestngListener - ERROR
+___________________________________________________ -2015-10-08 16:31:06,268 - com.quickride.baselib.QRTestngListener - INFO
+TEST STATUS  =   	FAILED                     -2015-10-08 16:31:07,290 - com.quickride.baselib.QRTestngListener - ERROR
+___________________________________________________ -2015-10-08 16:31:07,294 - com.quickride.baselib.QRTestngListener - INFO
+                                                                     -2015-10-08 16:31:08,479 - com.quickride.baselib.QRTestngListener - INFO
+######################     END OF THE TEST    ###################### -2015-10-08 16:31:08,479 - com.quickride.baselib.QRTestngListener - INFO

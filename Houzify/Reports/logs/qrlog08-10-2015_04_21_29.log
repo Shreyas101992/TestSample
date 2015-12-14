@@ -1,0 +1,7 @@
+######################     START OF THE TEST    ###################### -2015-10-08 16:21:29,895 - com.quickride.baselib.QRTestngListener - INFO
+_____________	   RUNNING TESTCASE 	___________ -2015-10-08 16:21:31,673 - com.quickride.baselib.QRTestngListener - INFO
+TESTCASE ID  =  	testNewUserRG_05                     -2015-10-08 16:21:31,673 - com.quickride.baselib.QRTestngListener - INFO
+TEST STATUS  =   	SKIPPED                     -2015-10-08 16:21:31,674 - com.quickride.baselib.QRTestngListener - ERROR
+___________________________________________________ -2015-10-08 16:21:31,674 - com.quickride.baselib.QRTestngListener - INFO
+                                                                     -2015-10-08 16:21:31,933 - com.quickride.baselib.QRTestngListener - INFO
+######################     END OF THE TEST    ###################### -2015-10-08 16:21:31,933 - com.quickride.baselib.QRTestngListener - INFO

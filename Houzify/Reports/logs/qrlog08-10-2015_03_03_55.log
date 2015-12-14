@@ -1,0 +1,5 @@
+######################     START OF THE TEST    ###################### -2015-10-08 15:03:56,218 - com.quickride.baselib.QRTestngListener - INFO
+_____________	   RUNNING TESTCASE 	___________ -2015-10-08 15:04:08,770 - com.quickride.baselib.QRTestngListener - INFO
+TESTCASE ID  =  	testNewUserRG_05                     -2015-10-08 15:04:08,770 - com.quickride.baselib.QRTestngListener - INFO
+Login button is displayed -2015-10-08 15:04:12,304 - com.quickride.baselib.QRTestngListener - INFO
+Login is completed -2015-10-08 15:04:48,509 - com.quickride.baselib.QRTestngListener - INFO
